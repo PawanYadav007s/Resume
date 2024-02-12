@@ -342,6 +342,13 @@ width: 50%;
        width: 70%;
        }
 
+ .skills-content .right .tool::before{
+       width: 70%;
+       }
+ .skills-content .right .numpy::before{
+       width: 70%;
+       }
+
 
 /*teams section styling*/
 .Team .title::after{
